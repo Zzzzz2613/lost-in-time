@@ -1,0 +1,27 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAA8A8AAPD/AADf/QDw7+7/8NH98O/u3t0fEf/v7+7d3S0igujv7v3fLSKC6O/e3d0vEoH/797d3R0hgv/v3v3fLSKC6O/u3d0tIoLo8O7e3R8R/+8A7+7/8NH98ADw/wAA3/0AAAAAAADwDwAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "~Fd": {
+        "data": "hwQQABAAAAAAAAAAABEAAAAAEBEQIgEAEBEREBAiAQAQIhERIREAERAiIiIiARASECLyIiISIRIQIi//8iIiEhAiIvLyLxERECIiIv8vAQAQIiIi8i8RABAiL/8iIiISECLy8iIRIRIQIiIiEgEQEhASEREhEgAREAEAACESAAAAAAAAEAEAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Kool Aid Man oh yeah"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADu7g4AAAAA4O7u7gAAAADg7u7uAAAAAODu7u4AAAAA4O7u7gAAAADg7u7uAAAAAADu7g4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
